@@ -3,8 +3,7 @@
 ### 🚀 About Me
 I am a **Statistics graduate** with a background in Business Advisory, now dedicated to mastering **Data Science and Machine Learning**. I love finding the "why" behind numbers and building models that solve real-world problems.
 
-- 🎓 **Education:** BSc in Statistics (Class of 2022)
-- 🏢 **Experience:** 2 year 11 months in Business Advisory (Accenture)
+- 🎓 **Education:** Aspiring Data Scientist | IIT Roorkee (Certification Candidate) > I am a BSc Statistics graduate (2022) with 3 years of experience as a Business Advisory associate (Accenture), currently upskilling through a professional certification from IIT Roorkee in Data Science and Machine Learning.
 - 📍 **Based in:** Hyderabad, India
 
 ### 🛠️ Technical Toolbox
