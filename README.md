@@ -1,13 +1,12 @@
 <!-- PREMIUM HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0078D4&height=220&section=header&text=Kavya%20Pabboju%20👩‍💻&fontSize=65&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=0078D4&height=220&section=header&text=Hi,%20I'm%20Kavya!%20👋&fontSize=65&fontColor=ffffff" alt="Header Banner" />
 </p>
 
 <!-- ANIMATED SUBTITLE TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist;AI+Engineer;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+🚀;Data+Scientist+%7C+AI+Engineer" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 💫 About Me
